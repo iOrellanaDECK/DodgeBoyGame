@@ -38,7 +38,7 @@ Para mantener compatibilidad con Unity, el repositorio conserva estas carpetas c
 2. Instalar el editor **Unity 6000.1.6f1**.
 3. Clonar este repositorio:
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
+   git clone https://github.com/iOrellanaDECK/DodgeBoyGame.git
    ```
 4. Abrir Unity Hub → **Add project** → seleccionar la carpeta del proyecto.
 5. Abrir la escena `Assets/Scenes/MainMenu.unity` o ejecutar desde la escena cargada.
